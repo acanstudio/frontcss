@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<!--<link rel="stylesheet" href="css/base.css" type="text/css" />-->
 <link rel="stylesheet" href="css/base.css" type="text/css" />
 <title>还是得学CSS</title>
 <style>
